@@ -14,5 +14,5 @@ This repository contains 3 files:
 1. Training and testing csv files.
 2. Solution File (.ipynb)
 
-## The Attrition Rate of the Employee was predicted using various algorithm such as Linear Regression, SVM, KNN, DT,RF etc. Also, hyper-parameter optimization is applied wherever required. The overall score comes out to be 81.365%.
+#### The Attrition Rate of the Employee was predicted using various algorithm such as Linear Regression, SVM, KNN, DT,RF etc. Also, hyper-parameter optimization is applied wherever required. The overall score comes out to be 81.365%.
 
